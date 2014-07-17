@@ -1,0 +1,16 @@
+package packName;
+
+public class MyClassGit 
+{
+	static String commonStr;
+
+	public String MymethodGit (String str)
+	{
+		if (str.equals(null))
+		{
+			commonStr= "stringa vuota";
+			return commonStr;
+		}
+		return commonStr = str;		
+	}
+}

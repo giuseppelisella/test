@@ -1,6 +1,6 @@
 package packName;
 
-public class ChangeMyClassGit 
+public class MyClassGit 
 {
 	static String commonStr;
 
